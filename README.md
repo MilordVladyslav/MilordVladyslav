@@ -1,5 +1,4 @@
 ### Hello everyone! 👋
-See my works below 😄
 
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning JavaScript
