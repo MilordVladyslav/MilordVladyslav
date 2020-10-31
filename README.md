@@ -4,7 +4,7 @@ See my works below 😄
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything here https://www.linkedin.com/in/vladyslav-petrachuk-10ba53197/
-- ⚡ Fun fact: I carried the system block, mouse, keybord to work in winter for a couple of months
+- ⚡ Fun fact: I carried the system block, mouse, keybord to work for a month. And it was in winter!
 
 <br />
 
