@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone! 👋
 See my works below 😄
 
 - 🔭 I’m currently working on my personal project
