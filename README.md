@@ -9,7 +9,7 @@
 
 ## See my works below 😄
 
-<p style="margin-bottom: 20px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilordVladyslav&layout=compact&hide=html" alt="MilordVladyslav" /></p>
+<p style="margin-bottom: 20px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilordVladyslav&layout=compact&hide=html" alt="MilordVladyslav" /></p>
 
 <br />
 
