@@ -1,5 +1,5 @@
 ### Hello everyone! 👋
-
+<div style="background-color="red">
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything here https://www.linkedin.com/in/vladyslav-petrachuk-10ba53197/
@@ -14,3 +14,4 @@
 <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MilordVladyslav&show_icons=true" alt="MilordVladyslav" /></p>
+</div>
