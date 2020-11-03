@@ -8,10 +8,8 @@
 <br />
 
 ## See my works below 😄
-<div class="markdown-body>
-<h6><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilordVladyslav&layout=compact&hide=html" alt="MilordVladyslav" /></h6>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilordVladyslav&layout=compact&hide=html" alt="MilordVladyslav" /></p>
 
 <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MilordVladyslav&show_icons=true" alt="MilordVladyslav" /></p>
-</div>
