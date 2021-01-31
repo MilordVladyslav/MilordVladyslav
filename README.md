@@ -1,6 +1,6 @@
 ### Hello everyone! 👋
 
-- 🔭 I’m currently working on my personal project
+- 🔭 I’m currently working at Eliftech
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything here https://www.linkedin.com/in/vladyslav-petrachuk-10ba53197/
 - ⚡ Fun fact: I carried my system block, mouse, keyboard to office for a month. And it was in winter!
