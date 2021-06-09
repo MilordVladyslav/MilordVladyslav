@@ -7,7 +7,7 @@
 
 <br />
 
-## See my works below 😄
+## See my works below
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilordVladyslav&layout=compact&hide=html" alt="MilordVladyslav" /></p>
 <br />
 
