@@ -1,7 +1,7 @@
 ### Hello everyone! 👋
 
 - 🔭 I’m currently working at Eliftech
-- 🌱 I’m currently writing my milordblog project
+- 🌱 I’m currently writing my milordblog project https://github.com/MilordVladyslav/milordblog
 - 💬 Ask me about anything here https://www.linkedin.com/in/vladyslav-petrachuk-10ba53197/
 - ⚡ Fun fact: I carried my system block, mouse, keyboard to office for a month. And it was in winter!
 
